@@ -1,0 +1,10 @@
+(base) Lorenas-Air:python-challenge lorenaolalde-rios$ /usr/local/bin/python3 /Users/lorenaolalde-rios/Documents/GitHub/python-challenge/PyBank/main.py
+Header: Date,Profit/Losses
+
+Financial Analysis
+total months: 86
+Total: $22564198
+Average change: $-8311.11
+Greatest Increase in Profits: Aug-16 $1862002
+Greatest Decrease in Profits: Feb-14 $-1825558
+(base) Lorenas-Air:python-challenge lorenaolalde-rios$ 
